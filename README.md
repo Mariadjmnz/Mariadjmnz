@@ -1,5 +1,5 @@
 ## Hey there, I'm Maria ദ്ദി( • ᴗ - ) ✧
-˙✧˖°🎓 ༘⋆｡ ˚ Computer Science senior Graduating May 2026
+˙✧˖°🎓 ༘⋆｡ ˚ Computer Science senior graduating May 2026
 ‧₊˚✩ ₊˚💻⊹♡ Aspiring Software Developer
 
 ---
