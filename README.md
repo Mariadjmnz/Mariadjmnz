@@ -14,7 +14,7 @@
 ---
 
 ## What I'm Working On ᕙ(  •̀ ᗜ •́  )ᕗ
-- Building my personal portfolio webiste
+- Building my personal portfolio website
 - Developing small web projects to strengthen my skills
 
 ---
