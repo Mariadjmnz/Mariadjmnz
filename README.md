@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hey there, I'm Maria ദ്ദി( • ᴗ - ) ✧
+˙✧˖°🎓 ༘⋆｡ ˚ Computer Science senior Graduating May 2026
+‧₊˚✩ ₊˚💻⊹♡ Aspiring Software Developer
 
-<!--
-**Mariadjmnz/Mariadjmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack ( ꩜ ᯅ ꩜;)⁭ ⁭
+- HTML
+- CSS
+- Python
+- C++
+- Git & Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On ᕙ(  •̀ ᗜ •́  )ᕗ
+- Building my personal portfolio webiste
+- Developing small web projects to strengthen my skills
+
+---
+
+## Currently Learning ₊˚ʚ 🌱 ₊˚✧ ﾟ.
+- JavaScript
+- React
+- Better Git workflows
+
+---
+
+## Connect With Me ₍ᐢ. .ᐢ₎₍ᐢ. .ᐢ₎ ₊˚⊹♡
+- LinkedIn:
+https://www.linkedin.com/in/mjimenez-franco
+- Email: mjimenez.career@gmail.com
